@@ -3,6 +3,7 @@ def sacar(valor):
 
     if saldo >= valor:
         print ("valor sacado")
+    
 
 print("obrigado por ser nosso cliente")
 
@@ -11,8 +12,7 @@ print("obrigado por ser nosso cliente")
 def depositar(valor):
     saldo = 500
     saldo==valor
-    #nova versao pra testar
-    #testando atualizações
-    
+
+
 
 
